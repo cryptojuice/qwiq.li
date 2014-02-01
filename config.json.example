@@ -1,0 +1,5 @@
+{
+  "accessKeyId": "aws access key",
+  "secretAccessKey": "aws secret key",
+  "bucketName": "bucket name"
+}
